@@ -27,7 +27,7 @@ body{
     color: #fabe4c;
 }
 .card-body p{
-    font-family: serif;
+    
     color:#555453;
     font-size: 17px;
 }
@@ -71,8 +71,12 @@ h1,h3{
 }
 .logo-1,.logo-2,.logo-3{
     border-radius:20px;
-   padding-top: 5px;
+    margin-bottom: 50px;
+    
 }
 .logo-text p{
     color:#6d6d6d;
+}
+.women-section-heading, .man-section-heading{
+    padding: 50px 0;
 }
