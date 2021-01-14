@@ -1,4 +1,44 @@
-.he{
+body{
+    font-family: 'Kadwa, serif';
+    background-color: #fffbf0;
+}
+.hader-logo{
     height: 35px;
 
 }
+.navbar-nav .nav-link{
+    color:#464645;
+    font-size: 17px;
+    font-weight: bold;
+    
+}
+#model{
+    width: 100%;
+}
+.header-card{
+    border: 0;
+    background-color: #fffbf0;
+}
+.card-body h1{
+   
+    font-size: 40px;;
+    font-family: Kadwa;
+    font-weight:600;
+    color: #fabe4c;
+}
+.card-body p{
+    font-family: serif;
+    color:#555453;
+    font-size: 17px;
+}
+.btn{
+    border:0;
+ 
+    font-weight: 700;
+    border-radius:7px;
+    padding:10px 15px;
+    background-color: #a4bc46;
+    color:white;
+}
+
+#464645
