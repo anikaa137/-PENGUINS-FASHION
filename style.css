@@ -1,16 +1,14 @@
 body{
-    font-family: 'Kadwa, serif';
+    font-family: 'Oswald', sans-serif;
     background-color: #fffbf0;
 }
 .hader-logo{
     height: 35px;
-
 }
 .navbar-nav .nav-link{
     color:#464645;
-    font-size: 17px;
+    font-size:17px;
     font-weight: bold;
-    
 }
 #model{
     width: 100%;
@@ -20,21 +18,16 @@ body{
    background-color: #fffbf0;
 }
 .card-body h1{
-   
     font-size: 40px;;
-    font-family: Kadwa;
     font-weight:600;
     color: #fabe4c;
 }
 .card-body p{
-    
     color:#555453;
     font-size: 17px;
 }
 .btn{
     border:0;
- 
-    font-weight: 700;
     border-radius:7px;
     padding:10px 15px;
     background-color: #a4bc46;
@@ -45,7 +38,6 @@ body{
     background-color:#f1f1f1;
     border-radius:5%;
     height: 80%;
-    
 }
 .women-jacked, .man-jacked{
     border:0;
@@ -64,15 +56,12 @@ h1,h3{
     color:#363958;
     font-weight:600;
 }
-
 .icon-alvam{
     border: 0;
-    
 }
 .logo-1,.logo-2,.logo-3{
     border-radius:20px;
     margin-bottom: 50px;
-    
 }
 .logo-text p{
     color:#6d6d6d;
@@ -80,3 +69,23 @@ h1,h3{
 .women-section-heading, .man-section-heading{
     padding: 50px 0;
 }
+.contact-heading{
+    text-align: center;
+}
+.submit-button{
+    text-align: center;
+}
+footer{
+    display: block;
+    margin:30px auto 0 auto;
+    padding-top: 20px;
+    height: 60px;
+    text-align: center;
+    background-color: #e7e7e7;
+}
+
+
+
+
+
+
