@@ -40,17 +40,17 @@ body{
     background-color: #a4bc46;
     color:white;
 }
-.women{
+.women, .man{
     padding: 5px;
     background-color:#f1f1f1;
     border-radius:5%;
     height: 80%;
     
 }
-.women-jacked{
-   border:0;
-   border-radius:4%;
-}
+.women-jacked, .man-jacked{
+    border:0;
+    border-radius:4%;
+ }
 .card-button{
     border: none;
     background-color: white;
@@ -59,4 +59,20 @@ body{
     color:#fabe4c;
     font-weight: 900;
     font-size: 40px;
+}
+h1,h3{
+    color:#363958;
+    font-weight:600;
+}
+
+.icon-alvam{
+    border: 0;
+    
+}
+.logo-1,.logo-2,.logo-3{
+    border-radius:20px;
+   padding-top: 5px;
+}
+.logo-text p{
+    color:#6d6d6d;
 }
